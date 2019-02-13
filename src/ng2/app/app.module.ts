@@ -4,7 +4,7 @@ import { RouterModule, UrlHandlingStrategy } from '@angular/router';
 
 import { UpgradeModule, downgradeComponent } from '@angular/upgrade/static';
 import { AppComponent } from './app.component';
-import { Ng2DemoComponent } from "ng2/app/ng2-demo.component";
+import { Ng2DemoComponent } from "ng2/app/tareq/ng2-demo.component";
 import { phoneServiceProvider } from "ng2/app/phone.service";
 
 declare var angular: any;
